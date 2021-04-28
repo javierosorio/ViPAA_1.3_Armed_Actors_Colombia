@@ -64,8 +64,12 @@ ViPAA 1.3 includes the following changes with respect to version 1.2
    *  The municipality of "Santa fe de Antioquia" was getting confused with the department of "Antioquia." 
       *  This caused a hyper-inflation of 11,247 cases in ViPAA 1.2. 
       *  The current version of ViPAA 1.3 only has 76 cases in this locality.
-   *  The municipality of "Nariño, Nariño" was hyper-inflating matching the municipality and the department of "Nariño" and several other locations (e.g. schools, hospitals, boniness) carrying the name "Nariño." This caused a hyper-inflation of 3,161 cases in ViPAA 1.2. The current version of ViPAA 1.3 only has 2 cases in this locality.
-   *  The capital of the country "Bogota" has a special designation as "District Capital" similar to Washington D.C. in the U.S. For that reason, it was considered as a "department" in ViPAA 1.2 but was erroneously not included in the dictionary of municipalities. This omission caused ViPAA 1.2 not to report any data in Bogota. After fixing the problem and including "Bogota" in the list of municipalities, ViPAA 1.3 now reports 2,865 entries located in the city of Bogota.
+   *  There were issues with "Nariño."
+      *  The municipality of "Nariño, Nariño" was hyper-inflating matching the municipality and the department of "Nariño" and several other locations (e.g. schools, hospitals, boniness) carrying the name "Nariño." This caused a hyper-inflation of 3,161 cases in ViPAA 1.2. 
+      *  The current version of ViPAA 1.3 only has 2 cases in this locality.
+   *  There were issues with "Bogota."
+      *  The capital of the country "Bogota" has a special designation as "District Capital" similar to Washington D.C. in the U.S. For that reason, it was considered as a "department" in ViPAA 1.2 but was erroneously not included in the dictionary of municipalities. This omission caused ViPAA 1.2 not to report any data in Bogota. 
+      *  After fixing the problem and including "Bogota" in the list of municipalities, ViPAA 1.3 now reports 2,865 entries located in the city of Bogota.
 
 
 <br>
