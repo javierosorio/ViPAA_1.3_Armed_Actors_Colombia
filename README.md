@@ -79,7 +79,7 @@ The "Methodology_ViPAA_v1.3.pdf" contains the metodological details and codebook
 
 Please cite as:
 
-Osorio, Javier, Mohamed Mohamed, Viveca Pavon, and Susan Brewer-Osorio. (2019). "Mapping Violent Presence of Armed Actors in Colombia", \textit{Advances of Cartography and GIScience of the International Cartographic Association}, 1(16):1-9, https://www.adv-cartogr-giscience-int-cartogr-assoc.net/1/16/2019/
+Osorio, Javier, Mohamed Mohamed, Viveca Pavon, and Susan Brewer-Osorio. (2019). "Mapping Violent Presence of Armed Actors in Colombia", *Advances of Cartography and GIScience of the International Cartographic Association*, 1(16):1-9, https://www.adv-cartogr-giscience-int-cartogr-assoc.net/1/16/2019/
 
 
 BibTeX:
