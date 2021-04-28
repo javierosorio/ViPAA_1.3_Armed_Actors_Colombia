@@ -2,8 +2,11 @@
 # ViPAA 1.3 Armed Actors Colombia
 
 **Violent Presence of Armed Actors in Colombia**
+
 **ViPPA v1.3**
+
 **Javier Osorio, University of Arizona**
+
 **05/01/2021**
 
 
