@@ -73,4 +73,28 @@ ViPAA 1.3 includes the following changes with respect to version 1.2
 
 The "Methodology_ViPAA_v1.3.pdf" contains the metodological details and codebook.
 
+<br>
+
+## 4. How to Cite
+
+Please cite as:
+
+Osorio, Javier, Mohamed Mohamed, Viveca Pavon, and Susan Brewer-Osorio. (2019). "Mapping Violent Presence of Armed Actors in Colombia", \textit{Advances of Cartography and GIScience of the International Cartographic Association}, 1(16):1-9, https://www.adv-cartogr-giscience-int-cartogr-assoc.net/1/16/2019/
+
+
+BibTeX:
+```
+@article{Osorio2019,
+author = {Osorio, Javier and  Mohamed, Mohamed and  Pavon, Viveca and 
+Brewer-Osorio, Susan},
+title = {{Mapping Violent Presence of Armed Actors in Colombia}},
+url = {https://www.adv-cartogr-giscience-int-cartogr-assoc.net/1/16/2019/},
+Journal = {Advances of Cartography and GIScience of the International 
+Cartographic Association},
+Number = {1},
+Volume = {16},
+Pages = {1--9},
+year = {2019}
+}
+```
 
