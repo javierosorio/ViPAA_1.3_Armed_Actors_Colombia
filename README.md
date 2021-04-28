@@ -100,7 +100,8 @@ Cartographic Association},
 Number = {1},
 Volume = {16},
 Pages = {1--9},
-year = {2019}
+year = {2019},
+doi = {10.5194/ica-adv-1-16-2019}
 }
 ```
 
