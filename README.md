@@ -33,6 +33,7 @@ More detials available at https://www.colombiaarmedactors.org/
 
 
 
+<br>
 
 ## 1. Event Coding 
 
@@ -41,6 +42,7 @@ https://github.com/javierosorio/Eventus_ID_2.0
 
 
 
+<br>
 
 ## 2. Summary of Changes 
 
@@ -64,6 +66,7 @@ ViPAA 1.3 includes the following changes with respect to version 1.2
    *  The capital of the country "Bogota" has a special designation as "District Capital" similar to Washington D.C. in the U.S. For that reason, it was considered as a "department" in ViPAA 1.2 but was erroneously not included in the dictionary of municipalities. This omission caused ViPAA 1.2 not to report any data in Bogota. After fixing the problem and including "Bogota" in the list of municipalities, ViPAA 1.3 now reports 2,865 entries located in the city of Bogota.
 
 
+<br>
 
 ## 3. Methodology and Codebook
 
